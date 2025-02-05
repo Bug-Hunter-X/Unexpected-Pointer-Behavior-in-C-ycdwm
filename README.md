@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a potential error related to pointer manipulation. The program aims to modify the value of a variable using a pointer. However, subtle issues can arise due to compiler optimizations or memory management. The solution provides a corrected version.
